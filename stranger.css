@@ -1,0 +1,23 @@
+.first{
+    font-size: larger;
+}
+.second{
+    color:palevioletred;
+}
+img.a{
+    height: 50px;
+    width:200px
+}
+img.b{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.c{
+    font-style: oblique;
+    color: maroon;
+}
+img{
+    width:250px;
+}

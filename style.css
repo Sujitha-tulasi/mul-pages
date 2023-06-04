@@ -1,0 +1,17 @@
+#picture{
+    height:450px;
+    width:1300px;
+     border:5px solid lightseagreen ;
+     display:flex;
+     background-color: antiquewhite;
+     justify-content: space-around;
+     justify-content: space-evenly;
+     margin:auto
+}
+img{
+    
+    padding : 15px;
+}
+.a{
+    font-style: oblique;
+}
